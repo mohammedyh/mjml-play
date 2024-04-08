@@ -1,0 +1,92 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Inter" href="https://rsms.me/inter/inter.css" />
+    <mj-attributes>
+      <mj-all font-family="Inter, sans-serif" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+    <!-- Logo -->
+    <mj-section background-color="#f3f4f6">
+      <mj-column>
+        <mj-image src="https://laravel.com/img/logomark.min.svg" alt="Laravel logo" width="60px" align="center" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Featured post -->
+    <mj-section background-color="#f3f4f6">
+      <mj-column width="80%" background-color="#fff" padding-bottom="10px" border-radius="0 0 6px 6px">
+        <mj-image src="https://placehold.co/600x350" alt="Featured article" align="center" padding="0" border-radius="6px 6px 0 0" />
+        <mj-text padding-top="24px" font-size="24px" line-height="1.2" font-weight="700">
+          Easily Optimise PDFs in Laravel with the Optimiser Package
+        </mj-text>
+        <mj-text font-size="15px" line-height="1.4" color="#64748b">
+          This PDF Optimizer package for PHP and Laravel applications for
+          effortless optimization and compression of PDF files.
+        </mj-text>
+        <mj-button href="#" align="left" text-align="left" background-color="transparent" color="red" padding="0">Read the article →</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Community links -->
+    <mj-section background-color="#f3f4f6" padding-top="50px" padding-bottom="50px">
+      <mj-column width="80%" background-color="#fff" padding-bottom="10px" border-radius="6px">
+        <mj-text padding-top="24px" padding-bottom="20px" font-size="24px" line-height="1.2" font-weight="700">
+          Community Links
+        </mj-text>
+
+        <mj-button href="#" color="red" align="left" text-align="left" text-align="left" background-color="transparent" font-size="15px" line-height="1.4" color="#64748b" padding="0">
+          Arrow Functions in JavaScript ES6
+        </mj-button>
+
+        <mj-text padding-top="0">
+          (<a href="#" text-align="left" background-color="transparent" padding="0" style="color: royalblue; text-decoration: underline">youtube.com</a>)
+        </mj-text>
+
+        <mj-button href="#" color="red" align="left" text-align="left" background-color="transparent" font-size="15px" line-height="1.4" color="#64748b" padding="0">
+          The ingredients we used for our new Ray docs
+        </mj-button>
+
+        <mj-text padding-top="0">
+          (<a href="#" text-align="left" background-color="transparent" padding="0" style="color: royalblue; text-decoration: underline">myrap.app</a>)
+        </mj-text>
+
+        <mj-button href="#" color="red" background-color="transparent" font-size="15px" line-height="1.4" color="#64748b" padding="0" text-align="left">
+          Misconfigured NGINX worker connections caused downtime
+        </mj-button>
+
+        <mj-text padding-top="0">
+          (<a href="#" text-align="left" background-color="transparent" padding="0" style="color: royalblue; text-decoration: underline">youtube.com</a>)
+        </mj-text>
+
+        <mj-button href="#" color="red" align="left" text-align="left" background-color="transparent" font-size="15px" line-height="1.4" color="#64748b" padding="0">
+          ★ An easy way to test UUIDs
+        </mj-button>
+
+        <mj-text padding-top="0">
+          (<a href="#" text-align="left" background-color="transparent" padding="0" style="color: royalblue; text-decoration: underline">masteringlaravel.io</a>)
+        </mj-text>
+
+        <mj-button href="#" color="red" align="left" text-align="left" background-color="transparent" font-size="15px" line-height="1.4" color="#64748b" padding="0">
+          Keycloak Guard Laravel Package
+        </mj-button>
+
+        <mj-text padding-top="0">
+          (<a href="#" text-align="left" background-color="transparent" padding="0" style="color: royalblue; text-decoration: underline">github.com</a>)
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f3f4f6" padding-top="50px" padding-bottom="50px">
+      <mj-column width="100%">
+        <mj-text align="center">
+          <a href="#" style="color: #000; text-decoration: none">Unsubscribe</a>
+          |
+          <a href="#" style="color: #000; text-decoration: none">Update your preferences</a>
+          | Company Name INC. PO Box
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
